@@ -1,0 +1,2 @@
+# AnyImageDataset
+基于pytorch，适配绝大多数图像数据集，无需格式转换的即插即用数据集导入模块
